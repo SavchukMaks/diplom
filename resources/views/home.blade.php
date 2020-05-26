@@ -5,7 +5,7 @@
         <div class="col-lg-12">
             <div class="card">
                 <div class="card-header">
-                    Dashboard
+                    Головна сторінка
                 </div>
 
                 <div class="card-body">
@@ -15,7 +15,7 @@
                         </div>
                     @endif
 
-                    Ви війшли у систему!
+                    Вітаємо! Ви успішно увійшли!
                 </div>
             </div>
         </div>
