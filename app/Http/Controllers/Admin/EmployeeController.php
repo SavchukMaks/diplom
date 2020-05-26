@@ -110,6 +110,6 @@ class EmployeeController extends Controller
     {
         $employee->delete();
 
-        return redirect()->route('admin.employee.index')->with('message', 'Працівник був видален');;
+        return redirect()->route('admin.employee.index')->with('message', 'Працівник був видален');
     }
 }
