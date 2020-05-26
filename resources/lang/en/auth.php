@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'failed'   => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'не вдалося'   => 'Ці дані не відповідають нашим записам/ Дані не знайдені.',
+    'ліміт спроб' => 'Занадто багато спроб входу. Повторіть спробу через: n-секунд.',
 ];

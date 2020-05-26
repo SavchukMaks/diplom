@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'Events & Meetings',
+    'site_title' => 'HR-auto',
 ];
